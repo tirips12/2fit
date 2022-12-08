@@ -1,6 +1,6 @@
 # 2FIT
 
-## I. Listing the Classes:
+## Listing the Classes:
 
 ### dbHelper
 
