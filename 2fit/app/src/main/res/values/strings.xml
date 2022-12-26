@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">2fit</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Surname</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Height">Height</string>
+    <string name="Weight">Weight</string>
+    <string name="TargetWeight">Target Weight</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="ExerciseType">Exercise</string>
+    <string name="BurnedKcal">Burned Kcal</string>
+    <string name="ExerciseTracker">Exercise Tracker</string>
+    <string name="SleepTracker">Sleep Tracker</string>
+    <string name="SleepTime">Sleep Time</string>
+    <string name="WakeUpTime">Wake Up Time</string>
+    <string name="SubmitSleep">Submit</string>
+    <string name="SubmitExercise">Submit</string>
+    <string name="FoodTracker">Food Tracker</string>
+    <string name="Breakfast">Breakfast</string>
+    <string name="BreakfastKcal">Kcal</string>
+    <string name="Lunch">Lunch</string>
+    <string name="LunchKcal">Kcal</string>
+    <string name="Dinner">Dinner</string>
+    <string name="DinnerKcal">Kcal</string>
+    <string name="SubmitFood">Submit</string>
+    <string name="OverallHealth">Overall Health</string>
+    <string name="Age">Age</string>
+    <string name="Exercise" />
+    <string name="Button">Exercise</string>
+</resources>
